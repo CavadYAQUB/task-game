@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#demo{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    top: 0;
+    left: 0;
+    position: absolute;
+
+    
+}
+#first{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(18, 18, 19);
+    display: flex;
+    margin: 250px auto;
+    border-radius: 100%;
+    
+      
+}
+#active{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(236, 8, 8);
+    display: flex;
+    margin: 250px auto;
+}
